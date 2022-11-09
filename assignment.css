@@ -1,0 +1,16 @@
+@font-face {
+    font-family: salt Debris;
+    src: url(font/Salt\ Debris.otf);
+}
+h1{
+    font-size: 24;
+    color: blue;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-family: salt Debris;
+    text-align: justify;
+}
+p{
+    text-align: left;
+}
