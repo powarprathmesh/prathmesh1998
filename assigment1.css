@@ -1,0 +1,90 @@
+p{
+    border: solid;
+    border-right-width: 6px;
+    border-left-width: 12px ; 
+    border-top-width: 20px;
+    border-bottom-width: 40px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: blue;
+    background-color: yellow;
+    font-size: 24px;
+}
+p1{
+    font-size: 40px;
+}
+p3{
+    border: solid;
+    border-right-width: 6px;
+    border-left-width: 12px ; 
+    border-top-width: 20px;
+    border-bottom-width: 40px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: yellow;
+    font-size: 24px;
+    border-left-color: orange;width: 80%;
+    border-right-color: green; width: 80%; ;
+    border-top-color: blue;width: 80%;
+    border-bottom-color: gray;width: 80%;
+    display: inline-block;
+
+}
+p2{
+    font-size: 40px;
+}
+p4{
+  font-size: 40px;  
+}
+h1{
+    border: solid;
+    border-right-width: 6px;
+    border-left-width: 12px ; 
+    border-top-width: 20px;
+    border-bottom-width: 40px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: yellow;
+    font-size: 50px;
+    border-left-color: orange;width: 80%;
+    border-right-color: green; width: 80%; ;
+    border-top-color: blue;width: 80%;
+    border-bottom-color: gray;width: 80%;
+    padding-left: 50px;
+    padding-right: 50px; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+p5{
+    font-size: 40px;  
+  }
+  P6{
+    border: solid;
+    border-right-width: 6px;
+    border-left-width: 12px ; 
+    border-top-width: 20px;
+    border-bottom-width: 40px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: yellow;
+    font-size: 50px;
+    border-left-color: orange;width: 80%;
+    border-right-color: green; width: 80%; ;
+    border-top-color: blue;width: 80%;
+    border-bottom-color: gray;width: 80%;
+    padding-left: 50px;
+    padding-right: 50px; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 150PX;
+
+
+  }
