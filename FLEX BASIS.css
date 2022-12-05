@@ -1,0 +1,43 @@
+.container{
+    background:yellow;
+    padding:20px;
+    flex-wrap:wrap;
+    display:flex;
+    
+    }
+    .column1 {
+    background:lightcoral;
+    padding:20px;
+    margin:5px;
+    text-align:center;
+    }
+    .column1{
+    flex-basis:450px;
+    }
+    .column2 {
+        background:lightcoral;
+        padding:20px;
+        margin:5px;
+        text-align:center;
+        }
+        .column3 {
+            background:lightcoral;
+            padding:20px;
+            margin:5px;
+            text-align:center;
+            }
+            .column4 {
+                background:lightcoral;
+                padding:20px;
+                margin:5px;
+                text-align:center;
+                }
+                .column5 {
+                    background:lightcoral;
+                    padding:20px;
+                    margin:5px;
+                    text-align:center;
+                    }
+                    h1{
+                        text-align: center;
+                    }
